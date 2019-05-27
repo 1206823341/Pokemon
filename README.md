@@ -4,5 +4,5 @@
 ## pokemon
 
 ```javaScript
-jfdlsajf;ldsafjolds
+var a = 1;
 ```
