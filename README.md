@@ -3,6 +3,6 @@
 
 ## pokemon
 
-```
+```javascript
 jfdlsajf;ldsafjolds
 ```
